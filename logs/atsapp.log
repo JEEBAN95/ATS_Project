@@ -1,0 +1,15 @@
+[INFO] :: 17-51-20 10:51:01 865 [restartedMain]  org.springframework.boot.StartupInfoLogger  55  logStarting  Starting AtsProjectApplication on JINU-PC with PID 11192 (E:\transportation-master\transportation-master\ATS_Project\ATS_Project\target\classes started by pc in E:\transportation-master\transportation-master\ATS_Project\ATS_Project)  
+[INFO] :: 17-51-20 10:51:01 958 [restartedMain]  org.springframework.boot.SpringApplication  651  logStartupProfileInfo  No active profile set, falling back to default profiles: default  
+[INFO] :: 17-51-20 10:51:10 054 [restartedMain]  org.hibernate.jpa.internal.util.LogHelper  31  logPersistenceUnitInformation  HHH000204: Processing PersistenceUnitInfo [name: default]  
+[INFO] :: 17-51-20 10:51:10 385 [restartedMain]  org.hibernate.Version  46  logVersion  HHH000412: Hibernate Core {5.4.8.Final}  
+[INFO] :: 17-51-20 10:51:10 827 [restartedMain]  org.hibernate.annotations.common.reflection.java.JavaReflectionManager  49  <clinit>  HCANN000001: Hibernate Commons Annotations {5.1.0.Final}  
+[INFO] :: 17-51-20 10:51:11 262 [restartedMain]  com.zaxxer.hikari.HikariDataSource  110  getConnection  HikariPool-1 - Starting...  
+[INFO] :: 17-51-20 10:51:18 597 [restartedMain]  com.zaxxer.hikari.HikariDataSource  123  getConnection  HikariPool-1 - Start completed.  
+[INFO] :: 17-51-20 10:51:18 678 [restartedMain]  org.hibernate.dialect.Dialect  172  <init>  HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect  
+[INFO] :: 17-51-20 10:51:23 541 [restartedMain]  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator  52  initiateService  HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]  
+[INFO] :: 17-51-20 10:51:26 201 [restartedMain]  org.springframework.boot.StartupInfoLogger  61  logStarted  Started AtsProjectApplication in 26.044 seconds (JVM running for 29.803)  
+[INFO] :: 17-53-20 10:53:52 858 [http-nio-9900-exec-1]  com.st.ats.controllers.HomePageController  36  getForm  from HomepageController index() method execution starts  
+[INFO] :: 17-53-20 10:53:52 859 [http-nio-9900-exec-1]  com.st.ats.controllers.HomePageController  38  getForm  from HomepageController index() method execution ends  
+[INFO] :: 17-05-20 11:05:56 936 [RMI TCP Connection(2)-127.0.0.1]  org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl  524  perform  HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'  
+[INFO] :: 17-05-20 11:05:58 493 [RMI TCP Connection(2)-127.0.0.1]  com.zaxxer.hikari.HikariDataSource  350  close  HikariPool-1 - Shutdown initiated...  
+[INFO] :: 17-05-20 11:05:58 524 [RMI TCP Connection(2)-127.0.0.1]  com.zaxxer.hikari.HikariDataSource  352  close  HikariPool-1 - Shutdown completed.  
